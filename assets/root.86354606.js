@@ -1,0 +1,1 @@
+import{u as r,a as s,r as a,o as c,c as n}from"./index.8053bc9f.js";const i={__name:"root",setup(u){const e=r(),o=s();return e.path==="/"&&o.replace({name:"home"}),(_,p)=>{const t=a("router-view");return c(),n(t)}}};export{i as default};
