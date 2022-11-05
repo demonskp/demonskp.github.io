@@ -1,1 +1,0 @@
-import{_ as a,r,o as s,b as c,g as t,w as n,F as _,e as o}from"./index.f486bf36.js";const l={};function m(i,d){const e=r("router-link");return s(),c(_,null,[t(e,{to:{name:"link-game"}},{default:n(()=>[o(" \u8FDE\u8FDE\u770B ")]),_:1}),t(e,{to:{name:"game-settings"}},{default:n(()=>[o(" \u8BBE\u7F6E ")]),_:1})],64)}const u=a(l,[["render",m]]);export{u as default};
