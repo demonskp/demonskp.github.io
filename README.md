@@ -1,2 +1,0 @@
-# demonskp.github.io
-blog
