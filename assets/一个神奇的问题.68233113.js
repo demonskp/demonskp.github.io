@@ -1,4 +1,4 @@
-import{o as t,b as n,ar as o}from"./index.920c2ddf.js";const a={class:"markdown-body"},p=o(`<h2>\u795E\u5947\u7684\u95EE\u9898</h2><p>\u5728\u6539\u4E4B\u524D\u65E7\u4EE3\u7801\u7684\u65F6\u5019(jquery)\uFF0C\u78B0\u5230\u4E86\u4E00\u4E2A\u795E\u5947\u7684\u95EE\u9898\u3002\u67D0\u4E2A\u4E0A\u4F20\u7684\u529F\u80FD\uFF0C\u552F\u72EC\u5728\u6D4B\u8BD5\u90A3\u91CC\uFF0C\u65E0\u6CD5\u4F7F\u7528\u4F1A\u62A5\u4E00\u4E2Ajson\u89E3\u6790\u7684\u9519\u8BEF\u3002</p><pre><code>     VM3845:3 Uncaught SyntaxError: Unexpected token &#39;&lt;&#39;
+import{o as t,b as n,ar as o}from"./index.7836d928.js";const a={class:"markdown-body"},p=o(`<h2>\u795E\u5947\u7684\u95EE\u9898</h2><p>\u5728\u6539\u4E4B\u524D\u65E7\u4EE3\u7801\u7684\u65F6\u5019(jquery)\uFF0C\u78B0\u5230\u4E86\u4E00\u4E2A\u795E\u5947\u7684\u95EE\u9898\u3002\u67D0\u4E2A\u4E0A\u4F20\u7684\u529F\u80FD\uFF0C\u552F\u72EC\u5728\u6D4B\u8BD5\u90A3\u91CC\uFF0C\u65E0\u6CD5\u4F7F\u7528\u4F1A\u62A5\u4E00\u4E2Ajson\u89E3\u6790\u7684\u9519\u8BEF\u3002</p><pre><code>     VM3845:3 Uncaught SyntaxError: Unexpected token &#39;&lt;&#39;
 
       at new Function (&lt;anonymous&gt;)
 

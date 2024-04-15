@@ -1,1 +1,0 @@
-import{u as r,a as s,r as _,o as n,c as a}from"./index.920c2ddf.js";const l={__name:"root",setup(c){const e=r(),o=s();return e.path==="/"&&o.replace({name:"home"}),(u,p)=>{const t=_("router-view");return n(),a(t)}}};export{l as default};

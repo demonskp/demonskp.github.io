@@ -1,0 +1,1 @@
+const i={"ECMAScript 6 \u5165\u95E8":{poster:"https://upload.jianshu.io/collections/images/1830019/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191030081120.png?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240",description:"\u8DDF\u968F \u962E\u4E00\u5CF0\u7684\u300AECMAScript 6 \u5165\u95E8\u300B\u8FD9\u4E00\u672C\u4E66\u5B66\u4E60ES6"}};export{i as T};
