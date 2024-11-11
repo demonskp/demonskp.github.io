@@ -1,4 +1,4 @@
-import{o as n,b as t,h as o}from"./index.76a55c36.js";const s="/assets/node_images_err.1e929a65.png",r={class:"markdown-body"},p=o(`<h2>node \u90E8\u7F72\u95EE\u9898</h2><p>\u90E8\u7F72\u65F6\u9009\u7528 18.20.4 \u955C\u50CF\u62A5\u9519</p><pre><code> ERRoR: executor failed running [/bin/sh -c npm install -g yarn]: exit code: 134
+import{o as n,b as t,h as o}from"./index.54a36c55.js";const s="/assets/node_images_err.1e929a65.png",r={class:"markdown-body"},p=o(`<h2>node \u90E8\u7F72\u95EE\u9898</h2><p>\u90E8\u7F72\u65F6\u9009\u7528 18.20.4 \u955C\u50CF\u62A5\u9519</p><pre><code> ERRoR: executor failed running [/bin/sh -c npm install -g yarn]: exit code: 134
 [17:02:027
 [17:02:02]
 &gt;[builder 6/9] RuN npm install -g yarn:
