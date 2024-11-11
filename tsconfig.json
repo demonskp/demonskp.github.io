@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "types": ["element-plus/global"],
+    "allowJs": true,
+    "paths": {
+      "@/*": ["./src/*"],
+    }
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "script/**/*"]
+}
