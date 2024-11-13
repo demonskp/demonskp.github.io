@@ -16,7 +16,7 @@ export const MenuList = [
   },
   {
     key: "cats",
-    path: "/",
+    path: "/cats",
     label: "猫猫",
   },
   {

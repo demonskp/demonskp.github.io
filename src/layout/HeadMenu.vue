@@ -35,8 +35,6 @@ import { MenuList } from '@/datas/menu';
   align-items: center;
   justify-content: center;
 
-  margin-bottom: 12px;
-
   box-shadow: 0 0 #0000, 0 0 #0000, 0 1px 2px 0 rgba(0, 0, 0, .05);
 
   .content {

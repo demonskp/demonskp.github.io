@@ -1,6 +1,7 @@
 import { createRouter, createWebHashHistory } from "vue-router";
 import game from "./modules/game";
 import notes from "./modules/notes";
+import cats from "./modules/cats";
 
 const router = createRouter({
   history: createWebHashHistory(import.meta.env.BASE_URL),
@@ -14,8 +15,16 @@ const router = createRouter({
           name: "home",
           component: () => import("../views/home/index.vue"),
         },
-        ...game,
-        ...notes,
+        {
+          path: "/",
+          name: "/",
+          component: ()=>import("../layout/Layout.vue"),
+          children: [
+            ...game,
+            ...notes,
+            ...cats,
+          ]
+        },
       ],
     },
   ],
