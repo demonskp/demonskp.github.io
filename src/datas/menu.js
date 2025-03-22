@@ -1,14 +1,19 @@
 export const MenuList = [
   {
-    key: "game",
-    path: "/game",
-    label: "游戏",
+    key: "home",
+    path: "/home",
+    label: "主页",
   },
-  {
-    key: "tutorial",
-    path: "/",
-    label: "教程",
-  },
+  // {
+  //   key: "game",
+  //   path: "/game",
+  //   label: "游戏",
+  // },
+  // {
+  //   key: "tutorial",
+  //   path: "/",
+  //   label: "教程",
+  // },
   {
     key: "notes",
     path: "/notes",
@@ -24,4 +29,4 @@ export const MenuList = [
     path: "/",
     label: "关于",
   },
-]
+];

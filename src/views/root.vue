@@ -11,7 +11,8 @@ if (route.path === "/") {
 }
 </script>
 <style>
-html, body {
+html,
+body {
   width: 100%;
   height: 100%;
 }

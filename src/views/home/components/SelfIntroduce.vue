@@ -8,14 +8,22 @@ import headJpg from "@/assets/images/header/header_pao.jpg"
       <img :src="headJpg" alt="" srcset="">
     </div>
     <div class="content_wrap">
-      <div>普通前端程序员</div>
-      <div class="connect_wrap">
-        <a href="https://github.com/demonskp" target="_blank">
-          <i class="iconfont icon-github" style="font-size: 32px;" />
-        </a>
-        <a href="mailto:demonskp@qq.com">
-          <i class="iconfont icon-weixin" style="font-size: 32px;" />
-        </a>
+      <div class="content_item">
+        <h2>关于我</h2>
+        <ul>
+          <li>我是一名来自深圳的工程师，主职Web前端，偶尔也会做一点Flutter的项目。</li>
+          <li>喜欢开源项目，相信互联网开源精神。</li>
+        </ul>
+      </div>
+      <div class="content_item">
+        <h2>联系我</h2>
+        <ul>
+          <li>
+            <a href="https://github.com/demonskp" target="_blank">
+              Github
+            </a>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
@@ -44,20 +52,15 @@ import headJpg from "@/assets/images/header/header_pao.jpg"
     position: relative;
     display: block;
     flex: 1;
+    padding: 12px;
+    padding-left: 22px;
 
-    .connect_wrap {
-      position: absolute;
-      right: 15px;
-      bottom: 15px;
-      font-size: 14px;
-      color: var(--text-color);
+    .content_item {
+      margin-bottom: 22px;
 
-      a {
-        color: var(--text-color);
-      }
-
-      i {
-        font-size: 40px;
+      h2 {
+        font-size: 22px;
+        margin-bottom: 6px;
       }
     }
   }

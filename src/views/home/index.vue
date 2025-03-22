@@ -12,7 +12,7 @@ import CloudBg from "./components/CloudBg.vue"
       <div class="nav-wrap">
         <div class="nav-bar">
           <router-link v-for="item in MenuList" :key="item.key" :to="item.path" class="nav-bar-item">{{ item.label
-            }}</router-link>
+          }}</router-link>
         </div>
       </div>
       <CloudBg />
@@ -35,7 +35,7 @@ import CloudBg from "./components/CloudBg.vue"
 <style lang="less" scoped>
 header {
   width: 100%;
-  height: 70vh;
+  height: 600px;
   background: hsl(200deg 70% 78%);
   background-repeat: no-repeat;
   background-size: cover;
@@ -48,7 +48,7 @@ header {
   }
 
   .nav-bar {
-    margin-top: 10vh;
+    margin-top: 108px;
     display: inline-flex;
     align-items: center;
     background: rgba(255, 255, 255, 0.1);
@@ -72,12 +72,12 @@ header {
 
   .introduction {
     width: 1000px;
-    height: 40vh;
+    height: 200px;
     position: absolute;
     left: 0;
     right: 0;
     margin: 0 auto;
-    bottom: -20vh;
+    bottom: -108px;
 
     background-color: #fff;
     border-radius: 4px;
@@ -89,7 +89,7 @@ header {
 }
 
 .content {
-  margin-top: 20vh;
+  margin-top: 216px;
   padding: 50px;
   display: flex;
   flex-direction: column;
@@ -133,7 +133,6 @@ header {
 
 .my-site-ref {
   background: hsl(200deg 70% 78%);
-  min-height: 40vh;
   padding: 80px;
 }
 </style>
