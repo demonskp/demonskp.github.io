@@ -1,0 +1,1 @@
+const e=[{key:"home",path:"/home",label:"\u4E3B\u9875"},{key:"notes",path:"/notes",label:"\u7B14\u8BB0"},{key:"cats",path:"/cats",label:"\u732B\u732B"},{key:"about",path:"/",label:"\u5173\u4E8E"}];export{e as M};
